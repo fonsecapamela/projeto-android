@@ -30,7 +30,7 @@
 
 body{
     background-color: #c5ebd6;
-    font-family: var(--fonte-padrão);
+    font-family: var(--fonte-padrão); 
 }
 
 a.externo::after {
@@ -65,6 +65,7 @@ header > p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 2px rgba(31, 27, 27, 0.699);
     
 }
